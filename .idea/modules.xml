@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fragmentshelloworld/fragmentshelloworld.iml" filepath="$PROJECT_DIR$/../fragmentshelloworld/fragmentshelloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gestionmultas/gestionmultas.iml" filepath="$PROJECT_DIR$/../gestionmultas/gestionmultas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gpshelloworld1/gpshelloworld1.iml" filepath="$PROJECT_DIR$/../gpshelloworld1/gpshelloworld1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../medicdata/medicdata.iml" filepath="$PROJECT_DIR$/../medicdata/medicdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../medicdatafrag/medicdatafrag.iml" filepath="$PROJECT_DIR$/../medicdatafrag/medicdatafrag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../medicdatav3/medicdatav3.iml" filepath="$PROJECT_DIR$/../medicdatav3/medicdatav3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paisesbanderas.iml" filepath="$PROJECT_DIR$/paisesbanderas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practica5.iml" filepath="$PROJECT_DIR$/../practica5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../resthelloworld/resthelloworld.iml" filepath="$PROJECT_DIR$/../resthelloworld/resthelloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../resthelloworldpopulate/resthelloworldpopulate.iml" filepath="$PROJECT_DIR$/../resthelloworldpopulate/resthelloworldpopulate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../restpolloloko/restpolloloko.iml" filepath="$PROJECT_DIR$/../restpolloloko/restpolloloko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../restpollolokolistview/restpollolokolistview.iml" filepath="$PROJECT_DIR$/../restpollolokolistview/restpollolokolistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqlitehelloworld/sqlitehelloworld.iml" filepath="$PROJECT_DIR$/../sqlitehelloworld/sqlitehelloworld.iml" />
+    </modules>
+  </component>
+</project>
